@@ -2,6 +2,10 @@
 # -*- coding:utf-8 -*-
 # Author:Arthur Mei
 
+'''
+按照生产环境表结构创建测试数据
+'''
+
 import random
 import sys
 import time
